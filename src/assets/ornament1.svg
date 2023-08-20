@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg version="1.1" viewBox="0 0 297 210" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient2635" x1="15.196" x2="40.786" y1="8.019" y2="42.221" gradientTransform="matrix(4.291 0 0 4.291 -33.326 -20.877)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fefeff" offset="0"/>
+   <stop stop-color="#b5d3ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m0.0027065 0.0016305v147.38s59.57 27.912 110.04 26.201c102.91-3.4885 186.88-173.66 186.88-173.66z" fill="url(#linearGradient2635)"/>
+</svg>
